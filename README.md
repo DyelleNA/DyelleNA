@@ -22,7 +22,7 @@ Me chamo Dyelle, tenho 21 anos e sou natural do Rio Grande do Norte. Atualmente,
 
 ## Interesses
 
-- Backend  
+- Desenvolvimento Backend  
 - Testes automatizados  
 - Liderança técnica  
 - Comunicação com clientes  
